@@ -1,0 +1,7 @@
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.pyc
+sabor_cia.db
+sabor_cia.db-*
+.env
